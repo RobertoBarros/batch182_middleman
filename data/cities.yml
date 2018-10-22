@@ -1,0 +1,16 @@
+berlin:
+  image_url: https://kitt.lewagon.com/placeholder/cities/berlin
+  subtitle: 'Come to Berlin'
+  title: 'Le Wagon Berlin'
+  avatar: 'https://kitt.lewagon.com/placeholder/users/random?1'
+
+shanghai:
+  image_url: https://kitt.lewagon.com/placeholder/cities/shanghai
+  subtitle: 'Come to Shanghai'
+  title: 'Le Wagon Shanghai'
+  avatar: 'https://kitt.lewagon.com/placeholder/users/random?2'
+rio:
+  image_url: https://kitt.lewagon.com/placeholder/cities/rio
+  subtitle: 'Come to Rio de Janeiro'
+  title: 'Le Wagon Rio'
+  avatar: 'https://kitt.lewagon.com/placeholder/users/random?3'
